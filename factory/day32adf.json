@@ -1,0 +1,15 @@
+{
+	"name": "day32adf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ea9d2e8b-04ac-450c-9990-fbe0aa2817b1",
+		"tenantId": "6077d28f-2162-40bc-94fe-131f61a93957"
+	}
+}
